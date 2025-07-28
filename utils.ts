@@ -1,0 +1,1 @@
+export const PI: number = 3.14; // Exporting a constant named PI with
